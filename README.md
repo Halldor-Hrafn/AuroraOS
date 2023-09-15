@@ -2,6 +2,6 @@
 
 To run unit tests, run this command:
 
-```rust
+```sh
 cargo test -Z build-std=core
 ```
